@@ -45,6 +45,15 @@
   		font-weight: 1000;
   }
 
+/*
+  @media screen and (max-width: 600px) {
+  .nav a:not(:first-child) {display: none;}
+  .navnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+*/
   /* Change the link color to #111 (black) on hover */
   li a:hover {
     background-color: rgba(17, 17, 17, 0.5);
