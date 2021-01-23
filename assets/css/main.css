@@ -1762,6 +1762,18 @@
   		text-align: right;
   	}
 
+    /* ///////// */
+
+    #sky_list{
+      padding-top: 0px;
+      margin-top: 0px;
+    }
+
+
+
+
+    /* ///////// */
+
   /* Section/Article */
 
   	section.special, article.special {
